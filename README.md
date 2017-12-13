@@ -1,1 +1,1 @@
-https://camo.githubusercontent.com/ea6828045b2dcd9770732d272586c5567bedfef3/687474703a2f2f61626f75742e7472617669732d63692e6f72672f696d616765732f7472617669732d6d6173636f742d32303070782e706e67
+![The Travis Mascot](http://about.travis-ci.org/images/travis-mascot-200px.png)
